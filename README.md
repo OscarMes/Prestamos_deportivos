@@ -1,4 +1,4 @@
-# Prestamos deportivos
+# Préstamos deportivos
 Esta actividad consiste en crear un sistema de préstamos de equipo deportivo utilizando .Net, C#, SQL SERVER y procedimientos almacenados, el sistema tiene un conjunto de 3 formularios Windows y un formulario Web
 
 # Registro de usuarios
